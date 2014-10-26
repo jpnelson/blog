@@ -1,0 +1,21 @@
+{
+  "name": "joshnelson",
+  "version": "0.1.0",
+  "authors": [
+    "Joshua Nelson <jonelson@atlassian.com>"
+  ],
+  "description": "A theme for ghost",
+  "license": "MIT",
+  "homepage": "joshnelson.com.au",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "life": "^0.1.3"
+  }
+}
